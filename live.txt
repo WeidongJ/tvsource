@@ -1679,8 +1679,8 @@ VOA,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 泰山天街,http://gcksc.v.kcdnvip.com/gc/taishan07_1/index.m3u8
 泰山天街,http://gctxyc.liveplay.myqcloud.com/gc/taishan07_1/index.m3u8
 斗鱼频道,#genre#
-【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
-【回首往事】仨房间画面同步显示,http://epg.112114.xyz/douyu/1569773
+叫我老陈就好了,http://epg.112114.xyz/douyu/74960
+Doinb,http://epg.112114.xyz/douyu/252140
 大星与海绵方块,http://epg.112114.xyz/douyu/3949681
 美味！蟹黄堡,http://epg.112114.xyz/douyu/8762358
 海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
